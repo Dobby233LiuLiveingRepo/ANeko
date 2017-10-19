@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="skin_name_neko">猫</string>
+
+  <string name="notification_enable">猫在跑。</string>
+  <string name="notification_disable">猫在睡觉觉。</string>
+
+  <string name="pref_cat_motion">设置</string>
+
+  <string name="pref_motion_enable_title">启用一只猫</string>
+  <string name="pref_motion_enable_summary">当猫，或者不当猫。</string>
+
+  <string name="pref_motion_behaviour_title">动作</string>
+  <string name="pref_motion_behaviour_summary">这只猫的动作</string>
+  <string name="pref_motion_behaviour_default">接近</string>
+
+  <string name="pref_motion_transparency_title">透明度</string>
+  <string name="pref_motion_transparency_summary">这只猫的透明度</string>
+
+  <string name="pref_motion_skin_title">皮肤</string>
+  <string name="pref_motion_skin_summary">这只猫的皮肤</string>
+  <string name="pref_skin_dialog_title">皮肤</string>
+  <string name="pref_skin_search_button">搜索皮肤</string>
+
+  <string name="msg_skin_load_failed">加载皮肤时失败。</string>
+  <string name="msg_market_not_found">Google Play 没有被安装。</string>
+
+  <string name="skin_search_uri">market://search?q=ANeko%20skin</string>
+</resources>
