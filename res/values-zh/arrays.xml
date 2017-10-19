@@ -2,7 +2,7 @@
 <resources>
   <!-- transparency -->
   <string-array name="pref_motion_transparency_entries">
-    <item>0% (完全)</item>
+    <item>0% (不透明)</item>
   </string-array>
 
 
