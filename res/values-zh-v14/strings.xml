@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="pref_motion_behaviour_default">whimsical</string>
+  <string name="pref_motion_behaviour_default">烦人</string>
 </resources>
