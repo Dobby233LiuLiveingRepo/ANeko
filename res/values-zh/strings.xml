@@ -24,7 +24,7 @@
   <string name="pref_skin_search_button">搜索皮肤</string>
 
   <string name="msg_skin_load_failed">加载皮肤时失败。</string>
-  <string name="msg_market_not_found">Google Play 不存在。</string>
+  <string name="msg_market_not_found">Google Play 应用程序不存在。</string>
 
   <string name="skin_search_uri">market://search?q=ANeko%20skin</string>
 </resources>
