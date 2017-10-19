@@ -17,7 +17,6 @@
 
   <string name="pref_motion_transparency_title">透明度</string>
   <string name="pref_motion_transparency_summary">这只猫的透明度</string>
-
   <string name="pref_motion_skin_title">皮肤</string>
   <string name="pref_motion_skin_summary">这只猫的皮肤</string>
   <string name="pref_skin_dialog_title">皮肤</string>
@@ -25,6 +24,11 @@
 
   <string name="msg_skin_load_failed">加载皮肤时失败。</string>
   <string name="msg_market_not_found">Google Play 应用程序不存在。</string>
+  
+  <!---
+  <string name="str_spthanks_placeholder">特别感谢这几位：/n 开发者：<a href="http://www.tamanegi.org/">IIIIIT</a>中文(简体)翻译者的 GitHub ：Dobby233Liu</string>
+  <string name="pref_sp_thanks">特别感谢</string>
+  -->
 
   <string name="skin_search_uri">market://search?q=ANeko%20skin</string>
 </resources>
