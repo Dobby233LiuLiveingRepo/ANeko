@@ -3,8 +3,8 @@
 
   <string name="skin_name_neko">猫</string>
 
-  <string name="notification_enable">猫在跑。</string>
-  <string name="notification_disable">猫在睡觉觉。</string>
+  <string name="notification_enable">猫在跑呢。</string>
+  <string name="notification_disable">猫在睡觉觉呢。</string>
 
   <string name="pref_cat_motion">设置</string>
 
@@ -24,11 +24,6 @@
 
   <string name="msg_skin_load_failed">加载皮肤时失败。</string>
   <string name="msg_market_not_found">Google Play 应用程序不存在。</string>
-  
-  <!---
-  <string name="str_spthanks_placeholder">特别感谢这几位：/n 开发者：<a href="http://www.tamanegi.org/">IIIIIT</a>中文(简体)翻译者的 GitHub ：Dobby233Liu</string>
-  <string name="pref_sp_thanks">特别感谢</string>
-  -->
 
   <string name="skin_search_uri">market://search?q=ANeko%20skin</string>
 </resources>
