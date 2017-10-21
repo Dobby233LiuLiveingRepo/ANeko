@@ -1,0 +1,143 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  min-width: 310px;
+
+  background: rgb(240, 255, 255);               /* azure */
+  color: rgb(0, 0, 0);                          /* black */
+}
+
+a:link {
+  color: rgb(0, 0, 205);                        /* blue3 */
+}
+
+a:visited {
+  color: rgb(0, 100, 0);                        /* dark green */
+}
+
+a:hover {
+  color: rgb(255, 0, 0);                        /* red */
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  margin: 0.5em 0.0em 0.5em 0.0em;
+  background: transparent;
+  color: rgb(34, 139, 34);                      /* forest green */
+  font-weight: bold;
+}
+
+h1 {
+  padding: 0.7em 0.0em 0.3em 0.0em;
+  color: rgb(205, 92, 92);                      /* indian red */
+  font-size: 170%;
+}
+
+h2 {
+  padding: 0.7em 0.0em 0.3em 0.0em;
+  font-size: 120%;
+}
+
+h3, h3, h4, h5, h6, h7 {
+  padding: 0.7em 0.0em 0.3em 0.0em;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+p {
+  margin: 0.2em 0.2em 0.2em 0.5em;
+}
+
+ul {
+  margin: 0.5em 0.0em 0.5em 0.0em;
+  padding: 0.0em 0.2em 0.0em 1.5em;
+}
+
+ul ul {
+  margin: 0.2em 0.0em 0.2em 0.0em;
+}
+
+li {
+  padding-top: 0.2em;
+}
+
+dl {
+  margin: 0.5em 0.0em 0.5em 0.0em;
+  padding: 0.0em 0.2em 0.0em 0.2em;
+}
+
+dl dl {
+  margin: 0.2em 0.0em 0.2em 0.0em;
+}
+
+dt {
+  margin: 0.5em 0.0em 0.2em 0.0em;
+  padding-top: 0.2em;
+  font-weight: bold;
+  color: rgb(96, 96, 96);
+}
+
+dd {
+  margin: 0.2em 0.2em 0.2em 1.0em;
+  padding-top: 0.2em;
+}
+
+pre {
+  margin: 0.2em 0.2em 0.2em 1.0em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
+  overflow: auto;
+  background: rgb(255, 255, 240);               /* ivory */
+  border: solid thin rgb(205, 205, 193);        /* ivory3 */
+}
+
+pre.menu {
+  margin: auto auto auto auto;
+  width: 80ex;
+}
+
+blockquote {
+  margin: 0.0em 0.2em 0.0em 0.5em;
+}
+
+.navi {
+  font: 90% monospace;
+}
+
+.contact {
+  text-align: right;
+}
+
+.refnote {
+  font-size: 0.6em;
+  position: relative;
+  top: -0.8em;
+}
+
+.note {
+  margin-top: 1.8em;
+  font-size: 0.8em;
+}
+
+.constant {
+  color: #5f9ea0;
+} /* font-lock-constant-face */
+
+.string {
+  color: #bc8f8f;
+} /* font-lock-string-face */
+
+.function-name {
+  color: #0000ff;
+} /* font-lock-function-name-face */
+
+.keyword {
+  color: #a020f0;
+} /* font-lock-keyword-face */
+
+.comment {
+  color: #ff6347;
+} /* font-lock-comment-face */
+
+.builtin {
+  color: #da70d6;
+} /* font-lock-builtin-face */
