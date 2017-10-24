@@ -1,4 +1,4 @@
-package com.example.aneko.sample;
+package io.github.dobby233liu.dobbyfakeneko;
 
 import android.app.Activity;
 import android.app.AlertDialog;
