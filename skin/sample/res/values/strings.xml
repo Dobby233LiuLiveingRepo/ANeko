@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">SampleSkin</string>
-
-  <string name="skin_name">DobbyFakeNeko</string>
 
   <string name="msg_unexpected_err">Something is wrong.</string>
   
