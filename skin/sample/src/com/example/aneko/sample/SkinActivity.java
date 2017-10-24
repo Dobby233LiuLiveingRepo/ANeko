@@ -33,8 +33,8 @@ public class SkinActivity extends Activity
         }
 
         int msg_id;
-        final Intent intent;
-        if(package_found) {
+         final Intent intent;
+        /*if(package_found) {
             msg_id = R.string.msg_usage;
             intent = new Intent(Intent.ACTION_MAIN)
                 .addCategory(Intent.CATEGORY_LAUNCHER)
@@ -43,7 +43,7 @@ public class SkinActivity extends Activity
         else {
             msg_id = R.string.msg_no_package;
             intent = new Intent(Intent.ACTION_VIEW, ANEKO_MARKET_URI);
-        }
+        }*/
 
         new AlertDialog.Builder(this)
             .setTitle(R.string.app_name)
